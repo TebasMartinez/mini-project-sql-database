@@ -12,7 +12,6 @@ If so, is the correlation inversely proportional, are CO₂ emisions reduced whe
 
 ## Repo contents
 ### Jupyter Notebooks
-Repo includes 5 notebooks:
 - Initial Data Assesment.ipynb
 - Cleaning:
   - Clean CO2 table.ipynb
